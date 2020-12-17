@@ -1,14 +1,15 @@
 {
     "figsize":[7,5],
+    "new_figure":1,
 
     "plt_info":{
-        "title":"Annealing",
-        "xlabel":"index",
-        "ylabel":"beta",
+        "title":"Cross Entropy",
+        "xlabel":"step",
+        "ylabel":"loss",
 
         "title_fontsize":35,
-        "xlabel_fontsize":30,
-        "ylabel_fontsize":30,
+        "xlabel_fontsize":20,
+        "ylabel_fontsize":20,
 
         "grid":"on"
         },

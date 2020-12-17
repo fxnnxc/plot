@@ -7,13 +7,13 @@ from plot_utils.plt import *
 from plot_utils.sns import *
 
 def lineplot(cfg):
-    fig = plt.figure(figsize=cfg['figsize'])
+    if  cfg['new_figure']:
+        fig = plt.figure(figsize=cfg['figsize'])
+        cfg['fig'] = fig
     sns.lineplot(x=cfg['x'], y=cfg['y'], data=cfg['data'])
 
-    custom_plt_plot(fig, **cfg['plt_info'])
+    custom_plt_plot(cfg['fig'], **cfg['plt_info'])
     custom_sns_plot(**cfg['sns_info'])
-
-    plt.show()
 
 if __name__=="__main__":
     with open("config.json")  as jsonfile:
