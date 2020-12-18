@@ -16,4 +16,4 @@
 
 |Type|equation|implemented|
 |:-:|:-:|:-:|
-|beta_annealing|| ✔️|
+|beta_annealing|<img src="docs/beta_annealing.png" width=200px>| ✔️|
