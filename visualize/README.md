@@ -1,3 +1,53 @@
+# Visualize
+
+
+# General Data Visualization 🐲
+
+일반적인 데이터에 대한 시각화를 모아놓은 레포지터리입니다.
+
+ipynb 파일 형식으로 데이터 시각화에 대한 소스코드를 올려놓았습니다. 
+
+<img src='images/data.gif'>
+
+---
+
+## 1. Circular Chart
+
+<img src='images/chart1.png' width=300px>
+
+
+---
+
+## 2. Credit Card Use Amount
+
+* #### 성별 나이에 따른 카드 이용 금액
+<img src='images/card1.png' width=200px>
+
+* ####  지역별 카드 이용 금액1
+<img src='images/card2.png' width=200px>
+
+* #### 지역별 카드 이용 금액2
+<img src='images/card3.png' width=300px>
+
+* ####  지역별 년도에 따른 카드 이용 금액
+<img src='images/card4.png' width=300px>
+
+* ####  업종별 전체 카드 이용 금액
+<img src='images/card5.png' width=300px>
+
+* #### 업종별 년도에 따른 카드 이용 금액 
+<img src='images/card6.png' width=400px>
+
+---
+## 3. Matplotlib color map
+
+<img src="images/colormap.png" width=700px>
+
+---
+
+추가 예정...💬
+
+
 # 🔤 NLP_visualization
 
 이 저장소는 자연어 데이터의 시각화 사례들에 대한 연구를 위해서 생성되었습니다. 
@@ -102,5 +152,38 @@
 </kbd>
 
 
+
+# 🔮 Animation_visualization 
+
+시각화를 하는데 있어서 움직이는 것은 정적인 것보다 더 많은 것을 표현할 수 있습니다. 
+
+데이터에 대한 인사이트를 더욱 얻기 위해서 Animation 관련된 기법을 모아두었습니다. 
+
+
+
+---
+## Coil
+
+<img src='images/coil.gif' width=300px>
+* 점의 누적으로 이미지를 그려줍니다.
+
+---
+
+## Camera
+<img src='images/camera1.gif' width=300px>
+<img src='images/camera2.gif' width=300px>
+* 매 순간마다 plot 하는 부분을 snap합니다. 
+* 중복은 되지 않습니다. 
+
+---
+
+## NLP_COUNT
+
+<img src="images/nlp_count.gif" width=400px>
+
+추가 예정...💬
+
+
 ---
 추가 예정...💬
+
