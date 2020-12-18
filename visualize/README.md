@@ -1,13 +1,13 @@
-# Visualize
+# Visualize🐲
 
 
-# General Data Visualization 🐲
+## General Data Visualization 
 
 일반적인 데이터에 대한 시각화를 모아놓은 레포지터리입니다.
 
 ipynb 파일 형식으로 데이터 시각화에 대한 소스코드를 올려놓았습니다. 
 
-<img src='images/data.gif'>
+<img src='images/data.gif' width=300px>
 
 ---
 
@@ -68,19 +68,9 @@ ipynb 파일 형식으로 데이터 시각화에 대한 소스코드를 올려�
 * 단어 빈도수 기준으로 크기를 정합니다.
 * Mask를 이용해서 mask 내부에 단어를 표현할 수 있습니다. 
 
-* By Text
-
-<kbd>
-<img src="images/word_cloud1.png" width=150px>
-</kbd>
-
-
-* By Crawling
-
-<kbd>
-<img src="images/word_cloud2.png" width=150px>
-</kbd>
-
+|By Text| By Crawling|
+|---|---|
+|<kbd><img src="images/word_cloud1.png" width=150px></kbd>|<kbd><img src="images/word_cloud2.png" width=150px></kbd>|
 ---
 
 ## 3. Tree Map
@@ -107,13 +97,13 @@ ipynb 파일 형식으로 데이터 시각화에 대한 소스코드를 올려�
 단어 빈도수 Top
 
 <kbd>
-<img src="images/covid_policy1.png" width=300px>
+<img src="images/covid_policy1.png" width=200px>
 </kbd>
 
 정책의 감정 Polarity 
 
 <kbd>
-<img src="images/covid_policy2.png" width=300px>
+<img src="images/covid_policy2.png" width=200px>
 </kbd>
 
 ---
@@ -132,7 +122,7 @@ ipynb 파일 형식으로 데이터 시각화에 대한 소스코드를 올려�
 * 단어임베딩에 대한 PCA (두 개의 분야에 대하여)
 
 <kbd>
-<img src="images/pca.png" width=400px>
+<img src="images/pca.png" width=300px>
 </kbd>
 
 
@@ -170,7 +160,7 @@ ipynb 파일 형식으로 데이터 시각화에 대한 소스코드를 올려�
 
 ## Useful sites
 <kbd>
-<img src="images/happy.webp" width=300px>
+<img src="images/happy.webp" width=200px>
 </kbd>
 
 * wiki data visualization : https://en.wikipedia.org/wiki/Data_visualization
@@ -181,7 +171,4 @@ ipynb 파일 형식으로 데이터 시각화에 대한 소스코드를 올려�
 
 ## Matplotlib color map
 
-<img src="images/colormap.png" width=700px>
-
-추가 예정...💬
-
+<img src="images/colormap.png" width=300px>
